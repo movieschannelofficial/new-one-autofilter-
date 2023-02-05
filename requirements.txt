@@ -1,4 +1,4 @@
-git+https://github.com/allnewmovieintime/pyrogram 
+git+https://github.com/MKN-Bots/pyrogram 
 
 git+https://github.com/cinemagoer/cinemagoer       
 
