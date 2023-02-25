@@ -1,5 +1,4 @@
-git+https://github.com/movieschannelofficial/new-one-autofilter/pyrogram 
+git+https://github.com/movieschannelofficial/Bubu-Bot-/pyrogram 
 
-git+https://github.com/cinemagoer/cinemagoer       
 
 tgcrypto
